@@ -13,7 +13,7 @@ Features of Project X include:
    - Bandwidth Management
 - Trapezoidal Motion Profiling 
    - Custom auton commands
-   - Accurate up to half an inch
+   - Accurate up to ~0.5"
 
 For any questions regarding the code, contact one of the following: 
 - Harrison McCarty (mccarth@purdue.edu) - Programmer from 2018
