@@ -14,6 +14,7 @@ Features of Project X include:
 - Trapezoidal Motion Profiling 
    - Custom auton commands
    - Accurate up to ~0.5"
+- Arduino LED Routines
 
 For any questions regarding the code, contact one of the following: 
 - Harrison McCarty (mccarth@purdue.edu) - Programmer from 2018
